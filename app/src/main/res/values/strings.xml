@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMDM_Practica3_Baloncesto</string>
+    <string name="local">Local</string>
+    <string name="visitante">Visitante</string>
+</resources>
